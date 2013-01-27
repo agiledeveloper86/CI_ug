@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>CI2_URL</title>
-</head>
-<body>
-<pre>
-
 
 --------
 2.URLs
@@ -20,7 +11,3 @@
 5.removing index.php-->local/.htaccess
                     -->local/app/config/config.php-->config['index_page'] = '';
                     -->local/app/config/config.php-->$config['uri_protocol'] = “AUTO”
-</pre>
-
-</body>
-</html>

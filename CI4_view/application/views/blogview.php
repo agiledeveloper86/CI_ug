@@ -4,8 +4,9 @@
 </head>
 <body>
 	<h1>Welcome to my Blog!</h1>
-	<?php echo $title."<br />"; ?>
-	<?php echo $heading."<br />"; ?>
-	<>
+	<h3><?php echo $title."<br />";
+	 echo $heading."<br />";
+	 echo $message ;?></h3>
+
 </body>
 </html>
